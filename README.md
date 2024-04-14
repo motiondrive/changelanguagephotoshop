@@ -26,7 +26,7 @@ ChangeLangPhotoshop est une application Windows simple permettant de changer la 
 
 Aucune installation n'est nécessaire. Assurez-vous simplement de lancer l'application en tant qu'administrateur via un clic gauche sur le fichier exécutable.
 Le fichier .exe est situé /main/bin/Release/net8.0-windows/win-x64.
-Si le changement de langue ne fonctione pas, vous devez verifier que le lien vers le dossier Photoshop de votre installation est correcte. Vous pouvez le vérifier ou le mofifier (avec une compilation pour regéner le .exe) à la ligne 11 de ChangeFlag.cs
+Si le changement de langue ne fonctione pas, vous devez verifier que le lien vers le dossier Photoshop de votre installation est correcte. Vous pouvez le vérifier ou le mofifier (avec une compilation pour regénerer le .exe) à la ligne 11 de ChangeFlag.cs
 
 
 ## Contributions
